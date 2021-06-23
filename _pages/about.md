@@ -1,7 +1,6 @@
 ---
 title: About us
 ---
-![](/images/demo/demo-landscape.jpg)
 
 ## Research Topics
 * Cardio-Oncology
