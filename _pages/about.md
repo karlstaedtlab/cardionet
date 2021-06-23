@@ -8,6 +8,7 @@ title: About us
 * Mathematical modeling of complex biological systems
 * Systems analysis of metabolism
 
+---
 ## Collaborators
 Here are some wonderful scientists that we have the honor of collaborating with.
 
@@ -31,5 +32,6 @@ UT Southwestern:
 * [Ralph DeBerardinis](https://cri.utsw.edu/scientists/ralph-deberardinis-laboratory/?utm_source=UTSW&utm_medium=Organic&utm_campaign=FacultyProfile&utm_content=DeBerardinis)
 
 
+---
 Please reach out if you want to collaborate with us!
 <a href="https://karlstaedtlab.github.io/cardionet/contact" class="button button--large">Contact us</a>
