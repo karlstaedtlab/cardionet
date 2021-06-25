@@ -8,7 +8,7 @@ featured_image: /images/demo/demo-portrait.jpg
 CardioNet is a comprehensive genome-scale metabolic network of the mammalian cardiac metabolism. CardioNet is a model and tool that we use to simulate metabolic flux distributions during diseases, stress or physiological conditions. We use CardioNet to design experiments, to analyze data from in vivo, in vitro or ex vivo experimental studies, and to test theories in silico. In short, CardioNet is a predictive tool that can help us understanding complex and diverse datasets.
 
 
- <img src="./images/cardionet.png" width="100" height="100">
+ <img src="./images/cardionet.png" width="250" height="250">
 
 ---
 
