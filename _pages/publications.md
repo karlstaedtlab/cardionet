@@ -10,6 +10,7 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 ## 2020 - 2016
 1. [Aksentijevic D, Karlstaedt A et al. "Intracellular sodium elevation reprograms cardiac metabolism." Nature Communications, 2020](https://doi.org10.1038/s41467-020-18160-x)
+
 2. [Karlstaedt A, Khanna R, Thangam M, Taegtmeyer H. Glucose 6-phosphate acts as a metabolic signal via phosphoglucose isomerase in heart muscle. Circ. Res. 2020](https://pubmed.ncbi.nlm.nih.gov/31698999/)
 
 3. [Karlstaedt A, Schiffer W, Taegtmeyer H Actionable metabolic pathways in heart failure and cancer-Lessons from cancer cell metabolism. Front Cardiovasc Med. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018530/)
