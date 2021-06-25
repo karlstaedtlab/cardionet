@@ -1,5 +1,6 @@
 ---
 title: About us
+featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ## Research Topics
