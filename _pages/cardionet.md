@@ -5,8 +5,12 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ## What is CardioNet?
+CardioNet is a comprehensive genome-scale metabolic network of the mammalian cardiac metabolism. CardioNet is a model and tool that we use to simulate metabolic flux distributions during diseases, stress or physiological conditions. We use CardioNet to design experiments, to analyze data from in vivo, in vitro or ex vivo experimental studies, and to test theories in silico. In short, CardioNet is a predictive tool that can help us understanding complex and diverse datasets.
+
+
+## What is Systems Biology?
 Systems biology aims to study complex biological systems using holistic approaches by combining multi-omics analysis such as transcriptomics, metabolomics, and proteomics with mathematical modeling. Understanding the network interactions and regulations on a global scale allows to make predictions for hundreds of protein-protein and protein-metabolite interactions with just a few input variables. 
-We reconstructed CardioNet, a comprehensive genome-scale metabolic network of the mammalian cardiac metabolism. The model can be used to simulate metabolic flux distributions in response to physiologic and pathophysiologic stress.
+
 
 
 
