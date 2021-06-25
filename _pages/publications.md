@@ -9,14 +9,14 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ---
 ## 2020 - 2016
-1. Aksentijevic D, Karlstaedt A et al. "Intracellular sodium elevation reprograms cardiac metabolism." Nature Communications, 2020[Article](https://doi.org10.1038/s41467-020-18160-x)
-2. Karlstaedt A, Khanna R, Thangam M, Taegtmeyer H. Glucose 6-phosphate acts as a metabolic signal via phosphoglucose isomerase in heart muscle. Circ. Res. 2020;126:60-74. PMID: 31698999. [Article]()
+1. [Aksentijevic D, Karlstaedt A et al. "Intracellular sodium elevation reprograms cardiac metabolism." Nature Communications, 2020](https://doi.org10.1038/s41467-020-18160-x)
+2. [Karlstaedt A, Khanna R, Thangam M, Taegtmeyer H. Glucose 6-phosphate acts as a metabolic signal via phosphoglucose isomerase in heart muscle. Circ. Res. 2020](https://pubmed.ncbi.nlm.nih.gov/31698999/)
 
-3. Karlstaedt A, Schiffer W, Taegtmeyer H Actionable metabolic pathways in heart failure and cancer-Lessons from cancer cell metabolism. Front Cardiovasc Med. 2018;5:71. PMID: 29971237; PMCID: PMC6018530. [Article]()
+3. [Karlstaedt A, Schiffer W, Taegtmeyer H Actionable metabolic pathways in heart failure and cancer-Lessons from cancer cell metabolism. Front Cardiovasc Med. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6018530/)
 
-4. Taegtmeyer H, Karlstaedt A, Rees ML, Davogustto G. Oncometabolic Tracks in the Heart. Circ Res. 2017;120(2):267-269. PMID: 28104766; PMCID: PMC6237182.   [Article]()
+4. [Taegtmeyer H, Karlstaedt A, Rees ML, Davogustto G. Oncometabolic Tracks in the Heart. Circ Res. 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6237182/)
 
-5. Karlstaedt A, Zhang X, Vitrac H, Harmancey R, Vasquez H, Wang JH, Goodell MA, Taegtmeyer H. Oncometabolite d-2-hydroxyglutarate impairs α-ketoglutarate dehydrogenase and contractile function in rodent heart. Proc Natl Acad Sci U S A. 2016;113(37):10436-41. PMID: 27582470; PMCID: PMC5027422.  [Article]()
+5. [Karlstaedt A, Zhang X, Vitrac H, Harmancey R, Vasquez H, Wang JH, Goodell MA, Taegtmeyer H. Oncometabolite d-2-hydroxyglutarate impairs α-ketoglutarate dehydrogenase and contractile function in rodent heart. Proc Natl Acad Sci U S A. 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5027422/)
 
 ---
 ## 2015 - 2010
