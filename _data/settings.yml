@@ -1,7 +1,7 @@
 basic_settings:
   site_title: KARLSTAEDT LAB
   site_tagline: Cardio-Oncology * Metabolic crosstalk between cardiac and cancer cells
-  favicon_image: /images/favicon.png
+  favicon_image: /images/cardionet.png
 
 header_settings:
   logo_image: 
