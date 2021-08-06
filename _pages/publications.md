@@ -5,7 +5,7 @@ featured_image: /images/demo/demo-portrait.jpg
 ---
 
 ## 2021
-1. Karlstaedt A et al. "Cardio-Oncology - Understanding the Intersections between Cardiac Metabolism and Cancer Biology." JACC: Basic to Translational Science, 2021 [Article]()
+1. [Karlstaedt A, Barrett M, Hu R, Gammons ST, Ky B. "Cardio-Oncology - Understanding the Intersections between Cardiac Metabolism and Cancer Biology." JACC: Basic to Translational Science, 2021](https://www.sciencedirect.com/science/article/pii/S2452302X21002035)
 
 ---
 ## 2020 - 2016
@@ -21,7 +21,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ---
 ## 2015 - 2010
-1. Aksentijević D, McAndrew DJ, Karlstädt A, Zervou S, Sebag-Montefiore L, Cross R, Douglas G, Regitz-Zagrosek V, Lopaschuk GD, Neubauer S, Lygate CA. Cardiac dysfunction and peri-weaning mortality in malonyl-coenzyme A decarboxylase (MCD) knockout mice as a consequence of restricting substrate plasticity. J Mol Cell Cardiol. 2014;75:76-87. PMID: 25066696; PMCID: PMC4169183. [Article]()
+1. Aksentijević D, McAndrew DJ, Karlstädt A, Zervou S, Sebag-Montefiore L, Cross R, Douglas G, Regitz-Zagrosek V, Lopaschuk GD, Neubauer S, Lygate CA. Cardiac dysfunction and peri-weaning mortality in malonyl-coenzyme A decarboxylase (MCD) knockout mice as a consequence of restricting substrate plasticity. J Mol Cell Cardiol. 2014;75:76-87. PMID: 25066696; PMCID: PMC4169183. [Article](https://europepmc.org/article/PMC/4169183)
 
 2. Karlstädt A, Fliegner D, Kararigas G, Ruderisch HS, Regitz-Zagrosek V, Holzhütter HG. CardioNet: a human metabolic network suited for the study of cardiomyocyte metabolism. BMC Syst Biol. 2012;6:114. PMID: 22929619; PMCID: PMC3568067. [Article]()
 
