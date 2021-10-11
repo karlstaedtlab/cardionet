@@ -6,6 +6,9 @@ featured_image: /images/demo/demo-portrait.jpg
 
 We are looking for passionate new PhD students, Postdocs, and recent graduates to join the team!
 
+
+ <img src="./images/KrebsCycle.png" width="400" height="400">
+
 ---
 
 ### Getting Help
