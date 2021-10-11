@@ -3,6 +3,10 @@ title: About us
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
+We are a dynamic research group at the Smidt Heart Institute with Cedars-Sinai Medical Center. Our goal is to uncover underlying mechanisms that 
+cause heart failure in cancer using interdisciplinary and computational approaches. We use systems biology approaches to measure metabolic alterations in the failing heart. Our model systems include ex vivo heart perfusions, cell cultures and in vivo mouse models. The Karlstaedt Lab has established several techniques including mathematical simulations, stable isotope tracer analysis, and mass spectrometry-based metabolomics.
+
+
 ## Research Topics
 * Cardio-Oncology
 * Metabolic crosstalk between cardiac and cancer cells
