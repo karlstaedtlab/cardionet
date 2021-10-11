@@ -4,6 +4,14 @@ subtitle: Please reach out if you have questions, requests, or feedback.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-{% include contact-form.html %}
+Anja.Karlstaedt
+Assistant Professor
 
-<!-- We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service. -->
+Department of Cardiology, Smidt Heart Institute
+
+anja.karlstaedt@csmc.edu
+
+Cedars-Sinai
+127 South San Vicente Boulevard, AHSP.A9229  :  Los Angeles CA 90048
+office 424-315-2583  :  fax 424‐314‐8750  :  cedars-sinai.org 
+
