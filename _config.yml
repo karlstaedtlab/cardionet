@@ -1,8 +1,7 @@
 site: Karlstaedt Lab
 
 url: https://karlstaedtlab.github.io/cardionet/
-baseurl: https://karlstaedtlab.github.io/cardionet/
-
+baseurl: 
 collections:
   pages:
     output: true
