@@ -1,10 +1,4 @@
 
----
-title: Research
-subtitle: Ongoing Projects in the Lab
-featured_image: /images/demo/demo-portrait.jpg
----
-
 ## Metabolic Interactions between Cancer and the heart
 We propose that the metabolic phenotype of cancer cells promotes metabolic and structural remodeling in the cardiac and skeletal muscle cells. This is important because, understanding how metabolic alterations initiate and sustain structural remodeling will allow us to identify liabilities and open therapeutic avenues. Ultimately this knowledge will enable us to identify patient populations susceptible to therapies and manage risk stratification of CVDs in cancer patients. 
 
