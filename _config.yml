@@ -1,7 +1,7 @@
-site: Journal Jekyll Theme
+site: Karlstaedt Lab
 
-url: 
-baseurl: 
+url: https://karlstaedtlab.github.io/cardionet/
+baseurl: https://karlstaedtlab.github.io/cardionet/
 
 collections:
   pages:
