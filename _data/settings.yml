@@ -17,7 +17,7 @@ menu_settings:
     - title: 'Team'
       url: '/team'      
     - title: 'Research'
-      url: '/research/'
+      url: '/research'
     - title: 'CardioNet'
       url: '/cardionet'
     - title: 'Resources'
