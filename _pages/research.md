@@ -1,6 +1,7 @@
 
 ---
-title: Research Projects
+title: Research
+subtitle: Ongoing Projects in the Lab
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
