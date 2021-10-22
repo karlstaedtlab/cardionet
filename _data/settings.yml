@@ -20,8 +20,6 @@ menu_settings:
       url: '/research'
     - title: 'CardioNet'
       url: '/cardionet'
-    - title: 'Resources'
-      url: '/resources'
     - title: 'Publications'
       url: '/publications'
     - title: 'Contact'
